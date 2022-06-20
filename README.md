@@ -1,1 +1,1 @@
-# Search-Algorithms-BFS-UCS-IDS-GBFS-A-
+# Search-Algorithms-BFS-UCS-IDS-GBFS-A*
